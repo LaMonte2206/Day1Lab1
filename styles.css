@@ -1,0 +1,254 @@
+/*.links{
+    position: absolute;
+    
+}*/
+body {
+  padding: 0;
+  margin: 0;
+}
+.links ul {
+  background-color: #98172b;
+  padding: 25px;
+  text-align: center;
+  min-width: 100%;
+}
+.links li {
+  display: inline;
+  margin-right: 40;
+}
+.links a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: #ddb673;
+}
+.name1 {
+  text-align: center;
+  font-family: Apple Chancery;
+}
+.name h4 {
+  margin-top: -20px;
+}
+.about {
+  text-align: center;
+  margin-top: 25px;
+  /*border-top: solid #a1c5cf;
+        border-bottom: solid #a1c5cf;
+        max-width:40%;*/
+}
+hr {
+  width: 75%;
+  border-style: solid;
+  border-color: #ddb673;
+  border-width: 1px;
+}
+.part1 {
+  float: left;
+  width: 20%;
+  margin-left: 200px;
+  margin-bottom: 100px;
+}
+.part2 {
+  float: right;
+  width: 20%;
+  margin-right: 200px;
+}
+.tech {
+  text-align: center;
+}
+.skill1 {
+  float: left;
+  width: 20%;
+  margin-left: 200px;
+}
+.skill2 {
+  float: right;
+  width: 20%;
+  margin-right: 200px;
+  margin-bottom: 50px;
+}
+.project {
+  text-align: center;
+}
+.next {
+  float: left;
+  margin-left: 200px;
+  margin-top: 5px;
+}
+.next h4 {
+  margin-bottom: 20px;
+}
+.direct {
+  float: left;
+  margin-left: 200px;
+}
+.direct h4 {
+  margin-bottom: 20px;
+}
+.next p {
+  margin-top: -20px;
+  width: 75%;
+}
+.direct p {
+  margin-top: -20px;
+  width: 75%;
+}
+.exp {
+  text-align: center;
+}
+.r1 {
+  margin-left: 200px;
+}
+.blue1 {
+  color: #98172b;
+  font-style: italic;
+  margin-top: -15px;
+  margin-bottom: -15px;
+  margin-left: 0px;
+  font-size: 16px;
+}
+.r1 p {
+  margin-left: 10px;
+}
+.r2 {
+  margin-left: 200px;
+  margin-top: 50px;
+  clear: initial;
+}
+.r2 p {
+  margin-left: 10px;
+}
+.blue2 {
+  color: #98172b;
+  font-style: italic;
+  margin-top: -15px;
+  margin-bottom: -15px;
+  margin-left: 0px;
+  font-size: 16px;
+}
+.r3 {
+  margin-left: 200px;
+  margin-top: 50px;
+  clear: initial;
+}
+.r3 p {
+  margin-left: 10px;
+}
+.blue3 {
+  color: #98172b;
+  font-style: italic;
+  margin-top: -15px;
+  margin-bottom: -15px;
+  margin-left: 0px;
+  font-size: 16px;
+}
+.r4 {
+  margin-left: 200px;
+  margin-top: 50px;
+  clear: initial;
+}
+.r4 p {
+  margin-left: 10px;
+}
+.blue4 {
+  color: #98172b;
+  font-style: italic;
+  margin-top: -15px;
+  margin-bottom: -15px;
+  margin-left: 0px;
+  font-size: 16px;
+}
+.edu {
+  text-align: center;
+}
+.edu p {
+  float: left;
+  margin-left: 200px;
+}
+.art {
+  float: left;
+  margin-left: -50px;
+  margin-top: 25px;
+  margin-bottom: 100px;
+}
+.me {
+  text-align: center;
+}
+fieldset {
+  height: 400px;
+  width: 357px;
+  background-color: #98172b;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-color: black;
+  text-indent: 5px;
+  border: solid #98172b;
+  font-family: "New Times Roman";
+}
+.inputname {
+  width: 349px;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 17px;
+  margin-bottom: 20px;
+  float: left;
+}
+.inputemail {
+  width: 349px;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 17px;
+  margin-bottom: 10px;
+  display: block;
+}
+textarea {
+  width: 349px;
+  height: 150px;
+  font-size: 17px;
+  border-radius: 5px;
+}
+.button {
+  background-color: white;
+  margin-top: 10px;
+  width: 349px;
+  height: 37px;
+  border-radius: 5px;
+  color: black;
+  font-weight: bold;
+  font-size: 18px;
+}
+.button:hover {
+  color: #ddb673;
+}
+.footer {
+  text-align: center;
+  display: inline;
+  word-spacing: 50px;
+  color: #ddb673;
+}
+.f2 {
+  text-align: center;
+  color: #ddb673;
+}
+.depot {
+  font-size: 17px;
+}
+.art {
+  font-size: 17px;
+  margin-left: -58px;
+}
+.name {
+  float: left;
+  color: #ddb673;
+}
+.email {
+  float: left;
+  color: #ddb673;
+}
+.message {
+  float: left;
+  color: #ddb673;
+}
